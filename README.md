@@ -3,11 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shahzaib%20Zia&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=8b949e" />
 
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shahzaib+Zia+👋;Software+Engineering+Student+🎓;Full-Stack+Web+Developer+🌐;C%2B%2B+%7C+Python+%7C+Java+Developer+💻;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
-</a>
-
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shahzaib111-nu&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/shahzaib111-nu)
