@@ -59,7 +59,7 @@ I'm **Shahzaib Zia** — a Software Engineering student and backend-focused deve
 
 ## `$ ls ./featured-projects`
 
-### 💰 Expense Tracker — REST API
+### 💰 Expense Tracker REST API
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
@@ -82,7 +82,7 @@ An enterprise-style backend for personal expense and budget management, built ar
 <tr>
 <td width="50%" valign="top">
 
-### 🏟️ PlayFairX — Court Booking System
+### 🏟️ PlayFairX Court Booking System
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -101,7 +101,7 @@ A multi-role reservation backend for indoor sports facilities.
 </td>
 <td width="50%" valign="top">
 
-### 📡 EduScan — QR Attendance System
+### 📡 EduScan QR Attendance System
 
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -120,7 +120,7 @@ A QR-based attendance system with a built-in anti-fraud layer.
 </tr>
 </table>
 
-**Other notable builds:** Mini Jira (self-referencing JPA relationships with audit logging) · Library Management System (RBAC, 3-layer Spring Boot architecture) · CharityDonation (Flask + MS SQL Server NGO fundraising platform) · Course Management System
+**Other notable builds:** Pharmacy Management System (Csharp Desktop Application) · CharityDonation (Flask + MS SQL Server NGO fundraising platform) · Console based Loan Processing Chatbot in CPP
 
 <br/>
 
@@ -142,6 +142,7 @@ A QR-based attendance system with a built-in anti-fraud layer.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-F2B84B?style=for-the-badge&logo=netlify&logoColor=black)](https://shahzaibzia.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib-zia)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahzaib111-nu)
 [![Email](https://img.shields.io/badge/Email-F2B84B?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shahzaib@example.com)
