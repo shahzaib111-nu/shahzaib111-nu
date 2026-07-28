@@ -128,16 +128,7 @@ A QR-based attendance system with a built-in anti-fraud layer.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahzaib111-nu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F2B84B&icon_color=5FD0C0&text_color=8B949E&ring_color=F2B84B&cache_seconds=86400" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=shahzaib111-nu&hide_border=true&background=0D1117&stroke=F2B84B&ring=F2B84B&fire=F2B84B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=5FD0C0&sideLabels=8B949E&dates=8B949E" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib111-nu&layout=donut&hide_border=true&bg_color=0D1117&title_color=F2B84B&text_color=8B949E&cache_seconds=86400" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahzaib111-nu&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=shahzaib111-nu&hide_border=true&background=0D1117&stroke=F2B84B&ring=F2B84B&fire=F2B84B&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=5FD0C0&sideLabels=8B949E&dates=8B949E" />
 
 <br/><br/>
 
@@ -153,7 +144,7 @@ A QR-based attendance system with a built-in anti-fraud layer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib-zia)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahzaib111-nu)
-[![Email](https://img.shields.io/badge/Email-F2B84B?style=for-the-badge&logo=gmail&logoColor=black)](mailto:zaibzia111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-F2B84B?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shahzaib@example.com)
 
 <br/>
 
